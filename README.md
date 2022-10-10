@@ -5,5 +5,6 @@
 <ol>
  <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158">Sheet #1 (Data type - Conditions).</a></li>
  <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/326175">Contest #1.</a></li>
+  <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432">Sheet #2 (Loops).</a></li>
 </ol>
 
