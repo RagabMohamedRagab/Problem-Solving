@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\PS\bin\Debug\net6.0\PS.exe
+C:\Users\pc\Desktop\PS\bin\Debug\net6.0\PS.deps.json
+C:\Users\pc\Desktop\PS\bin\Debug\net6.0\PS.runtimeconfig.json
+C:\Users\pc\Desktop\PS\bin\Debug\net6.0\PS.dll
+C:\Users\pc\Desktop\PS\bin\Debug\net6.0\ref\PS.dll
+C:\Users\pc\Desktop\PS\bin\Debug\net6.0\PS.pdb
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.AssemblyInfo.cs
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.dll
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\ref\PS.dll
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.pdb
+C:\Users\pc\Desktop\PS\obj\Debug\net6.0\PS.genruntimeconfig.cache
