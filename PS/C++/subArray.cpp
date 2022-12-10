@@ -1,38 +1,42 @@
 // Time Complexity O(N^2)
-// Space Complexiy O(1 )
+// Space Complexity O(N)
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	int N;
-	cin>>N;
-	int a=1;
-	while(a<=N){
-		int size;
+	int n;
+	cin>>n;
+	int i=0;
+	while(i<n){
+		int size,result=0;
 		cin>>size;
 		int A[size]={0};
-		for(int x=0;x<size;x++){
-			cin>>A[x];
-			cout<<A[x]<<" ";
+		for(int j=0;j<size;j++){
+			cin>>A[j];
 		}
-		int i=0,z=0,ma;
+		result=size;
+		int a=0;
+		int b=0; // 4
 		while(true){
-			if(z==size-1){
+			if(a==size-1){
 				break;
 			}
-			if(i==z){
-				ma=max(A[i],A[i+1]);
-			}else{
-				ma=max(ma,A[i+1]);
+			if(A[b]>A[b+1]){
+				a++;
+				b=a;
+				continue;
 			}
-			cout<<ma<<" ";
-			i++;
-			if(i==size-1){
-				z++;
-				i=z;
+			result+=1;
+			b++;
+			if(b==size-1){
+				a++;
+				b=a;
 			}
+		
+			
 		}
-		a++;
-		cout<<endl;
+			cout<<result<<endl;
+		i++;
+		
 	}
-	return 0;
+   return 0;
 }
