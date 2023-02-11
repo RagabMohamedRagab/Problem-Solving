@@ -1,3 +1,5 @@
+// Time Complexity O(N)
+// Space Time O(N)
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
