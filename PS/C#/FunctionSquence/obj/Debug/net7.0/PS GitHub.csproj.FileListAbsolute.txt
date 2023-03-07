@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\PS GitHub\bin\Debug\net7.0\PS GitHub.exe
+C:\Users\pc\Desktop\PS GitHub\bin\Debug\net7.0\PS GitHub.deps.json
+C:\Users\pc\Desktop\PS GitHub\bin\Debug\net7.0\PS GitHub.runtimeconfig.json
+C:\Users\pc\Desktop\PS GitHub\bin\Debug\net7.0\PS GitHub.dll
+C:\Users\pc\Desktop\PS GitHub\bin\Debug\net7.0\PS GitHub.pdb
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.AssemblyInfo.cs
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.dll
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\refint\PS GitHub.dll
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.pdb
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\PS GitHub.genruntimeconfig.cache
+C:\Users\pc\Desktop\PS GitHub\obj\Debug\net7.0\ref\PS GitHub.dll
