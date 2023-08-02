@@ -8,6 +8,7 @@
    <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219774">Sheet #3 (Arrays)</a></li>
    <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/329103">Contest #3.1</a></li>
   <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219856">Sheet #4 (Strings)</a></li>
-  <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/223205">Sheet #5 (Functions)</a></li>
+  <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/223205">Sheet #7(Functions)</a></li>
+ <li><a href="https://codeforces.com/group/MWSDmqGsZm/contest/223339">Sheet #7 (Recursions)</a></li>
 </ol>
 
